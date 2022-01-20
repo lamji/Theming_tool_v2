@@ -4,8 +4,8 @@ Theming tool for frappe
 
 #### Installing
 ```
-$ bench get-app https://github.com/open-alt/theming_tool.git
-$ bench --site [site_name] install-app theming_tool
+$ bench get-app https://github.com/lamji/Theming_tool_v2.git
+$ bench --site erpnext install-app theming_tool
 ```
 #### How To Use
 1- Create "Element" and insert it's "class" name example: Nav-bar class is ".navbar-default"
