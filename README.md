@@ -10,9 +10,13 @@ Theming tool for frappe
 ```
 
 $ bench set-config developer_mode 1
+
 $ bench get-app https://github.com/lamji/Theming_tool_v2.git
+
 $ bench --site erpnext install-app theming_tool
+
 $ sudo chmod -R 777 /sites/assets/erpnext
+
 $ sudo /opt/bitnami/ctlscript.sh restart
 ```
 #### How To Use
